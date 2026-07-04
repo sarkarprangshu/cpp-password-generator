@@ -44,3 +44,7 @@ Strength: Strong
 ## Author
 
 Prangshu Sarkar
+## Note
+
+This project is intended for learning C++ programming concepts.
+It uses `rand()` for random password generation and is not intended for production or security-critical use.
