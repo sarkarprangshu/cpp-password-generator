@@ -40,6 +40,9 @@ Include Symbols? Y
 
 Generated Password: A7#kLm9@Qx2!
 Strength: Strong
+## Screenshot
+
+![Password Generator Screenshot](Screenshot.png)
 
 ## Author
 
